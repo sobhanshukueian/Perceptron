@@ -4,10 +4,14 @@ Perceptron is a single layer neural network.Perceptron Learning Algorithm, origi
 ![4](https://user-images.githubusercontent.com/47561760/130283139-314cf10f-df33-43c8-ac07-b431f994371b.png)
 
 # Architecture
-The perceptron works on below simple steps
+The perceptron works on below simple steps:
+
 a. All the inputs x are multiplied with their weights w (Initialize the weights to 0 or small random numbers).
+
 b. Add all the multiplied values and call them Weighted Sum.
+
 c. Apply that weighted sum to the correct Activation Function(Ex.Unit Step Activation Function).
+
 d. Update weights in each iteration
 
 # How Code Works?
